@@ -1,0 +1,19 @@
+[
+    {
+        "total_bus": {
+            "total_bus_num": "239",
+            "BMTA": "211",
+            "TSB": "28"
+        },
+        "bus_full_distance": {
+            "total_bus_num": "190",
+            "BMTA": "170",
+            "TSB": "20"
+        },
+        "bus_extra": {
+            "total_bus_num": "49",
+            "BMTA": "41",
+            "TSB": "8"
+        }
+    }
+]

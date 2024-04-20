@@ -1,0 +1,27 @@
+[
+    {
+        "name": "สาย 514",
+        "full_dis": 20,
+        "extra": 20
+    },
+    {
+        "name": "สาย 73",
+        "full_dis": 19,
+        "extra": 17
+    },
+    {
+        "name": "สาย 136",
+        "full_dis": 16,
+        "extra": 16
+    },
+    {
+        "name": "สาย 168",
+        "full_dis": 20,
+        "extra": 14
+    },
+    {
+        "name": "สาย 510",
+        "full_dis": 40,
+        "extra": 20
+    }
+]
